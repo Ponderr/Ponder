@@ -49,6 +49,9 @@ body {
     color:white;
   }
   a {
+    position: relative;
+    left: 20px;
+    top: 20px;
     text-decoration: none;
   }
 
